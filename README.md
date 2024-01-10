@@ -54,8 +54,8 @@ This is a completed teamwork project with the following roles:
 
 | Member Name      | Role                                               |
 |------------------|----------------------------------------------------|
-| Othman Shahrouri | Swift(UIKit),SwiftUI, Frontend, integration and UX |
-| Nedine Rafid     | Frontend(SwiftUI), UI and UX                       |
+| Othman Shahrouri | SwiftUI,Swift(UIKit),and UX                        |
+| Nedine Rafid     | UI and UX                                          |
 | Shady Jaradat    | Backend (python Django)                            |
 
 
