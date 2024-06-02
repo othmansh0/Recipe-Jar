@@ -1,0 +1,28 @@
+[
+    {
+        "id": 43,
+        "name": "Desserts",
+        "order_number": 1,
+        "number_of_items": 3,
+        "recenlty_recipes_added": [
+            "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/2b422cd19f6c488fbe649da9739b5542/fb.jpg?resize=1200:*",
+            "https://img.buzzfeed.com/video-api-prod/assets/cd31e7efcb684a9b9df38bc141a59849/BFV14089_EasyBakedChurrosThumb1080.jpg?resize=1200:*",
+            "https://www.allrecipes.com/thmb/8q2lnM3q0Sqqv_BbRctFTR3N0xE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-croissant-french-toast-bake-recipe-8415810-VAT-4x3-3-d888624bd7de4025921195da70fca178.jpg"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Breakfast",
+        "order_number": 3,
+        "number_of_items": 0,
+        "recenlty_recipes_added": []
+    },
+    {
+        "id": 47,
+        "name": "Lunch",
+        "order_number": 4,
+        "number_of_items": 0,
+        "recenlty_recipes_added": []
+    }
+]
+

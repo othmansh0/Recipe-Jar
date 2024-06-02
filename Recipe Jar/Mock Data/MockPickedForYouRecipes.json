@@ -1,0 +1,78 @@
+[
+    {
+        "id": 98,
+        "title": "Salted Caramel Apple Cinnamon Rolls Recipe by Tasty",
+        "time": 0,
+        "picture_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/280547.jpg?resize=1200:*",
+        "video_url": "https://www.youtube.com/watch?v=7fXDYuzaGQA",
+        "video_image_url": "https://i.ytimg.com/vi/7fXDYuzaGQA/hqdefault.jpg",
+        "video_title": "Salted Caramel Apple Cinnamon Rolls • Tasty Recipes",
+        "video_duration": "0:03:12",
+        "video_channel_name": "Tasty Recipes",
+        "video_posted_date": "Aug 29, 2020",
+        "is_editor_choice": false,
+        "order_number": 3,
+        "recipe_category": {
+            "id": 45,
+            "name": "Dinner",
+            "order_number": 2
+        }
+    },
+    {
+        "id": 97,
+        "title": "Strawberry Cheesecake Macarons Recipe by Tasty",
+        "time": 0,
+        "picture_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/55122.jpg?resize=1200:*",
+        "video_url": "https://www.youtube.com/watch?v=igkltgvKSh8",
+        "video_image_url": "https://i.ytimg.com/vi/igkltgvKSh8/hqdefault.jpg",
+        "video_title": "Strawberry Cheesecake Macarons",
+        "video_duration": "0:01:43",
+        "video_channel_name": "Tasty",
+        "video_posted_date": "May 22, 2017",
+        "is_editor_choice": false,
+        "order_number": 2,
+        "recipe_category": {
+            "id": 45,
+            "name": "Dinner",
+            "order_number": 2
+        }
+    },
+    {
+        "id": 96,
+        "title": "Ragù Bolognese (North Italian Meat Sauce)",
+        "time": 0,
+        "picture_url": "https://www.allrecipes.com/thmb/1C8hcD_GCLNOPu4vgG_SOiDBfas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1059039-a4bac97768ac4a13bdbe03a9acf6ef41.jpg",
+        "video_url": "https://www.youtube.com/watch?v=MS_IdAevyMY",
+        "video_image_url": "https://i.ytimg.com/vi/MS_IdAevyMY/hqdefault.jpg",
+        "video_title": "How to Make Ragù Bolognese (Northern Italia Meat Sauce)",
+        "video_duration": "0:04:52",
+        "video_channel_name": "J. Kenji López-Alt",
+        "video_posted_date": "Jan 19, 2017",
+        "is_editor_choice": false,
+        "order_number": 1,
+        "recipe_category": {
+            "id": 45,
+            "name": "Dinner",
+            "order_number": 2
+        }
+    },
+    {
+        "id": 92,
+        "title": "Croissant French Toast Bake",
+        "time": 0,
+        "picture_url": "https://www.allrecipes.com/thmb/8q2lnM3q0Sqqv_BbRctFTR3N0xE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-croissant-french-toast-bake-recipe-8415810-VAT-4x3-3-d888624bd7de4025921195da70fca178.jpg",
+        "video_url": "https://www.youtube.com/watch?v=i_3JvptJ04M",
+        "video_image_url": "https://i.ytimg.com/vi/i_3JvptJ04M/hqdefault.jpg",
+        "video_title": "Easy, Croissant French Toast Casserole Recipe | with Overnight Instructions!",
+        "video_duration": "0:08:20",
+        "video_channel_name": "Tatyana's Everyday Food",
+        "video_posted_date": "Apr 29, 2022",
+        "is_editor_choice": false,
+        "order_number": 3,
+        "recipe_category": {
+            "id": 43,
+            "name": "Desserts",
+            "order_number": 1
+        }
+    }
+]

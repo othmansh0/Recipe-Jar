@@ -1,0 +1,31 @@
+{
+    "selected_shopping_category": {
+        "id": 68,
+        "name": "Sushi",
+        "icon": "🍣",
+        "order_number": 1,
+        "number_of_items": 4
+    },
+    "items": [
+        {
+            "id": 930,
+            "name": "Rice",
+            "is_check": false
+        },
+        {
+            "id": 931,
+            "name": "Ginger",
+            "is_check": true
+        },
+        {
+            "id": 932,
+            "name": "Crabmeat",
+            "is_check": true
+        },
+        {
+            "id": 933,
+            "name": "Sugar",
+            "is_check": false
+        }
+    ]
+}

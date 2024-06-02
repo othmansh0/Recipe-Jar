@@ -1,0 +1,38 @@
+[
+    {
+        "id": 521,
+        "description": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Generously coat a 9x13-inch baking dish with nonstick cooking spray.",
+        "order_number": 1,
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 522,
+        "description": "Whisk together eggs, milk, heavy cream, brown sugar, vanilla, cinnamon, and salt in a large bowl.",
+        "order_number": 2,
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 523,
+        "description": "Dip each croissant half in the egg mixture until fully soaked.",
+        "order_number": 3,
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 524,
+        "description": "Arrange dipped croissants in the prepared baking dish, overlapping as needed. Pour any remaining egg mixture over croissants.",
+        "order_number": 4,
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 525,
+        "description": "Bake in the preheated oven until golden brown and a knife inserted in the center comes out clean, about 30 minutes.",
+        "order_number": 5,
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 526,
+        "description": "Let stand 15 minutes before serving. Serve with desired toppings.",
+        "order_number": 6,
+        "recipe_name": "Croissant French Toast Bake"
+    }
+]

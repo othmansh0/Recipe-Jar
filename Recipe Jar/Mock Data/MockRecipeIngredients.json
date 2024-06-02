@@ -1,0 +1,82 @@
+[
+    {
+        "id": 806,
+        "quantity": 0.0,
+        "unit": " ",
+        "order_number": 1,
+        "name": "cooking spray",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 807,
+        "quantity": 6.0,
+        "unit": "dimensionless",
+        "order_number": 2,
+        "name": "large eggs",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 808,
+        "quantity": 1.0,
+        "unit": "cup",
+        "order_number": 3,
+        "name": "milk",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 809,
+        "quantity": 0.5,
+        "unit": "cup",
+        "order_number": 4,
+        "name": "heavy cream",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 810,
+        "quantity": 2.0,
+        "unit": "tablespoon",
+        "order_number": 5,
+        "name": "brown sugar",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 811,
+        "quantity": 2.0,
+        "unit": "teaspoon",
+        "order_number": 6,
+        "name": "vanilla extract",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 812,
+        "quantity": 2.0,
+        "unit": "teaspoon",
+        "order_number": 7,
+        "name": "ground cinnamon",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 813,
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "order_number": 8,
+        "name": "salt",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 814,
+        "quantity": 8.0,
+        "unit": "dimensionless",
+        "order_number": 9,
+        "name": "large croissants (about 1 1/4 pounds), halved horizontally",
+        "recipe_name": "Croissant French Toast Bake"
+    },
+    {
+        "id": 815,
+        "quantity": 0.0,
+        "unit": " ",
+        "order_number": 10,
+        "name": "confectioner's sugar",
+        "recipe_name": "Croissant French Toast Bake"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 68,
+        "name": "Sushi",
+        "icon": "🍣",
+        "order_number": 1,
+        "number_of_items": 4
+    },
+    {
+        "id": 69,
+        "name": "Cookie",
+        "icon": "🍪",
+        "order_number": 2,
+        "number_of_items": 0
+    }
+]
