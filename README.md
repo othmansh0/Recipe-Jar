@@ -1,4 +1,4 @@
-# Recipe Jar
+<h1 id="top">Recipe Jar | Code Snippets (Mock Data)</h1>
 
 ### Screen Shots
 
@@ -62,4 +62,4 @@ Recipe Jar Repo will be updated soon.
 - Twitter - [@othmansh0](https://twitter.com/othmansh0)
 - Website - [LinkedIn: Othman Shahrouri](https://linkedin.com/in/othmansh0)
 
-[Back To The Top](#Recipe-Jar)
+[Back To The Top](#top)
