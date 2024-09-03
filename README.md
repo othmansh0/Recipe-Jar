@@ -13,6 +13,9 @@
 - [Author Info](#author-info)
 
 ---
+## Note
+Please note that this code has many parts that were written when I started my iOS journey two years ago. I have refactored it several times since then and will ensure this repo is updated soon.
+
 
 ## Description
 
